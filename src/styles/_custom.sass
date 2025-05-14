@@ -17,12 +17,12 @@
 
 .bg-color
   &-1
-    background-color: #EAF8FD
+    background-color: #C3F3FB
   &-2
-    background-color: #FFFBE8
-  &-3
+    background-color: #DCE8FA
+  //&-3
     background-color: #F0E9F6
-  &-4
+  //&-4
     background-color: #EAF8FD
   &-info
     background-color: #E8EEFD
@@ -30,6 +30,26 @@
     background-color: #F9F9F9
   &-white
     background-color: #fff
+  
+.bg-h85
+  position: relative
+  &::after
+    content: ''
+    position: absolute
+    bottom: 0%
+    left: 0
+    width: 100%
+    height: 91%
+    transform: translateY(-0%)
+    background-color: #FCF8DB
+    z-index: 0
+  .col-lg-12
+    z-index: 1
+  @media screen and (max-width: $bp-max-md)
+    padding: 1rem
+    &::after
+      height: 100%
+      bottom: 0
 
 .border-top
   &.color-primario
