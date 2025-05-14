@@ -396,22 +396,22 @@
     TabsC.color-acento-contenido.mb-5
       .tabs-content.border.px-4.p-md-5.py-3(titulo="Auténticos" :icon="require('@/assets/bullets/1.svg')")
         .row.justify-content-center.align-items-center
-          .col-lg-7.col-xl-8.mb-3.mb-md-0.order-2
+          .col-lg-7.col-xl-8.order-2
             h4 Auténticos
             p Son objetos reales que forman parte del entorno cotidiano de los niños, como utensilios de cocina, herramientas, ropa, plantas, animales, etc. No son juguetes diseñados específicamente para un fin educativo, sino objetos con un uso real, en la vida diaria.
     
-          .col-md-8.col-lg-5.col-xl-4.order-1
+          .col-md-8.col-lg-5.col-xl-4.order-1.mb-3.mb-lg-0
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/tema1/21.png', alt='')
     
       .tabs-content.border.px-4.p-md-5.py-3(titulo="Significativos" :icon="require('@/assets/bullets/1.svg')")
         .row.justify-content-center.align-items-center
-          .col-lg-7.col-xl-8.mb-3.mb-md-0.order-2
+          .col-lg-7.col-xl-8.order-2
             h4 Significativos
             p Son aquellos objetos que tienen un significado personal o cultural para los niños, que están relacionados con sus experiencias, intereses y conocimientos previos. Pueden ser objetos que hayan utilizado en casa, en la calle, en el mercado, o que hayan visto en libros o películas. 
 
     
-          .col-md-8.col-lg-5.col-xl-4.order-1
+          .col-md-8.col-lg-5.col-xl-4.order-1.mb-3.mb-lg-0
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/tema1/22.png', alt='')
     
