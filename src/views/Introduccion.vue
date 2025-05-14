@@ -8,11 +8,11 @@
         figure
           img(src="@/assets/curso/intro/1.png", data-aos="zoom-in")
       .col-lg-8.order-1.mb-3.mb-lg-0
-        p(data-aos="fade-left") Bienvenidos a esta primera Unidad Secuencias didácticas y materiales didácticos, donde aprenderemos dos componentes esenciales en el ámbito educativo: las secuencias didácticas y los materiales didácticos. Ambos conceptos son fundamentales para el diseño y la implementación de experiencias efectivas de aprendizaje. También veremos la importancia del orden y la jerarquización en el aprendizaje y en la construcción de dichos materiales.
+        p(data-aos="fade-left") Bienvenidos a esta primera Unidad Secuencias didácticas y materiales didácticos, donde aprenderemos dos componentes esenciales en el ámbito educativo: las <b>secuencias didácticas</b> y los <b>materiales didácticos.</b> Ambos conceptos son fundamentales para el diseño y la implementación de experiencias efectivas de aprendizaje. También veremos la importancia del orden y la jerarquización en el aprendizaje y en la construcción de dichos materiales.
         P Al finalizar esta unidad, los estudiantes estarán en capacidad de:
     
         .bg-color-1.p-4.mb-3(data-aos="fade-left")
-          p.mb-0 Reconocer la fundamentación pedagógica que permite establecer Secuencias didácticas en ambientes de aprendizaje asertivos e identificar la importancia del orden y la jerarquía en el aprendizaje significativo desde el enfoque de Ausubel.
+          p.mb-0 <b>Reconocer</b> la fundamentación pedagógica que permite establecer Secuencias didácticas en ambientes de aprendizaje asertivos e <b>identificar</b> la importancia del orden y la jerarquía en el aprendizaje significativo desde el enfoque de Ausubel.
         
         p La unidad se dividirá en las siguientes secciones:
     
